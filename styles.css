@@ -1,0 +1,48 @@
+.image_home_top {
+    width: 500px;
+    height: 400px;
+}
+
+#texte_title {
+    color: aqua;
+}
+
+.img_chaussures {
+    width: 400px;
+    height: 400px;
+}
+
+.img_accessoires {
+    width: 300px;
+    height: 300px;
+}
+
+.img_vetements {
+    width: 400px;
+    height: 400px;
+}
+
+.img_chaussures_list_detail {
+    width: 400px;
+    height: 400px;
+}
+
+.img_lingerie {
+    width: 400px;
+    height: 400px;
+}
+.image_home_top2 {
+    width: 900px;
+    height: 400px;
+}
+.img_accessoires2 {
+    width: 500px;
+    height: 400px;
+}
+.img_chaussures_list_detail2 {
+    width: 600px;
+    height: 400px;
+}
+.texte {
+    font-size: 20px;
+}
