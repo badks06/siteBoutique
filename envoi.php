@@ -14,7 +14,7 @@ $headers .= "Content-type: text/plain; charset=iso-8859-1\r\n";
 $headers .= "From: $nom <$mail>\r\nReply-to : $nom <$mail>\nX-Mailer:PHP"; 
 
 $subject="$objet"; 
-$destinataire="ambrechirazi@gmail.com"; //remplacez "webmaster@votre-site.com" par votre adresse e-mail
+$destinataire="ambrechirazi08@gmail.com"; //remplacez "webmaster@votre-site.com" par votre adresse e-mail
 $body="$message"; 
 if (mail($destinataire,$subject,$body,$headers)) { 
 echo "Votre mail a été envoyé<br>"; 
