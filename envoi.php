@@ -23,6 +23,6 @@ echo "Une erreur s'est produite";
 } 
 ?></p>
 <p align="center">Vous allez bientot etre redirigé vers la page d'acceuil<br>
-Si vous n'etes pas redirigé au bout de 5 secondes cliquez <a href="http://www.amber06.com">ici 
+Si vous n'etes pas redirigé au bout de 5 secondes cliquez <a href="http://Ambre06.github.io/boutiqueAM">ici 
 </a></p>
  
